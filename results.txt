@@ -1,0 +1,14 @@
+Mapa 1:
+Liczba zwierzat: 68
+Liczba roslin: 21
+Dominujacy gen: 2
+Sredni poziom energii: 42.044117647058826
+Srednia dlugosc zycia: 58.01759530791789
+Srednia liczba dzieci: 2.3088235294117645
+Mapa 2:
+Liczba zwierzat: 63
+Liczba roslin: 24
+Dominujacy gen: 6
+Sredni poziom energii: 33.6031746031746
+Srednia dlugosc zycia: 58.26053042121683
+Srednia liczba dzieci: 2.4761904761904763
